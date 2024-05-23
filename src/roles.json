@@ -1,0 +1,7 @@
+{
+    "Admin": ["delete", "update", "edit", "view"],
+    "Manager": ["update", "edit", "view"],
+    "Team Lead": ["view"],
+    "Guest": [],
+    "Owner": ["delete", "update", "edit", "view"]
+  }
